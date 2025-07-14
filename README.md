@@ -1,6 +1,6 @@
 # utala insa
 ## tan jan Petokota
-<br>lawa mama meli mi li pakala
+<br>lawa pi mama meli mi li pakala
 <br>toki insa ona la utala li lon
 <br>nasin nanpa wan la ona li pilin pona li wile lon
 <br>nasin nanpa tu la ona li pilin anpa li wile moli
