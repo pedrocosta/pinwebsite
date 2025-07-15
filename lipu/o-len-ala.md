@@ -30,6 +30,6 @@ o len a
 
 ---
 
-[^1]: I will not hide - I wil not hide - I am beautiful! - I am smart! - I am sweet! - I am unique! - I will not hide!
+[^1]: I will not hide - I will not hide - I am beautiful! - I am smart! - I am sweet! - I am unique! - I will not hide!
 
 [^2]: I will hide - I will hide - I am disgusting! - I am dumb! - I am cold! - I am alone! - I will hide!
