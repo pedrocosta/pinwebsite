@@ -1,6 +1,6 @@
 ![monsuta insa](https://raw.githubusercontent.com/pedrocosta/utalainsa/master/monsuta%20insa.png "monsuta insa")
 
-# monsuta insa
+# monsuta insa [^1]
 
 monsuta li lon insa e pilin mi
 
@@ -30,7 +30,7 @@ taso ona li awen lon insa mi
 
 mi wile ala pana e moku tawa monsuta
 
-# monsuta insa
+# monsuta insa [^2]
 
 monsuta li lon insa e pilin mi 
 
@@ -59,3 +59,9 @@ mi ken ala kute e pilin pona mi
 mi ken kute e monsuta taso
 
 mi pana e moku tawa monsuta tan seme
+
+---
+
+[^1]: the monster within - in my heart lives a monster - this monster makes me feel depressed - my head tells me to feel good - the monster growls - he wants to eat my brain to get stronger - my head growls - it also wants to eat and wants to kill the monster - I threat the monster - I devour him - he is not so strong - he could not eat my happiness - I only hear him fadedly - but he still lives on me - my wish is never to feed him
+
+[^2]: the monster within - in my heart lives a monster - this monster makes me feel depressed - my head tells me to feel good - the monster growls - he wants to eat my brain to get stronger - my head growls - it also wants to eat and wants to kill the monster - I am afraid of the monster - I feed him - he is so strong - he is eating my happiness - I can't hear my laughs - I only ear the monster - why do I feed him?
