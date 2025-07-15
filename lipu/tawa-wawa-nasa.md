@@ -58,6 +58,6 @@ ken la jan ale la mi lili
 
 ---
 
-[^1]: mad rush - I rushed to find love - it was a strange run - I started alone - at the end I got to know many people ) depression was gone ) happiness grew ) feel good to belong ) I am not alone ) I am open to love someone - my run was good for me - I believe there is someone that finds me sweet ) interesting ) important 
+[^1]: mad rush - I rushed to find love - it was a strange run - I started alone - at the end I got to know many people ) depression was gone ) happiness grew ) feel good to belong ) I am not alone ) I am open to love someone - my run was good for me - I believe there is someone who finds me sweet ) interesting ) important 
 
 [^2]: mad rush - I rushed to find love - but it was a stupid run - I started alone - at the end everyone was gone ) pain was strong ) happiness was gone ) depression was strong ) I am alone - my run resulted in nothing - I think everyone thinks that I am insufficient ) I am dangerous ) I am disgusting 
