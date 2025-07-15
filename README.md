@@ -1,12 +1,16 @@
 # utala insa
 ## tan jan Petokota
-<br>lawa pi mama meli mi li pakala
-<br>toki insa ona la utala li lon
-<br>nasin nanpa wan la ona li pilin pona li wile lon
-<br>nasin nanpa tu la ona li pilin anpa li wile moli
-<br>tenpo li kama li tawa
-<br>utala li kama ike suli
-<br>nasin nanpa tu li kama wawa
-<br>mama mi li moli
-<br>peto
-<br>lipu ni li toki o utala ona
+
+open (https://github.com/pedrocosta/utalainsa/blob/main/lipu/open.md)
+
+o len ala (https://github.com/pedrocosta/utalainsa/blob/main/lipu/o-len-ala.md)
+
+tawa wawa nasa (https://github.com/pedrocosta/utalainsa/blob/main/lipu/tawa-wawa-nasa.md)
+
+nasin olin (https://github.com/pedrocosta/utalainsa/blob/main/lipu/nasin-olin.md)
+
+pakala (https://github.com/pedrocosta/utalainsa/blob/main/lipu/pakala.md)
+
+monsuta insa (https://github.com/pedrocosta/utalainsa/blob/main/lipu/monsuta-insa.md)
+
+pini (https://github.com/pedrocosta/utalainsa/blob/main/lipu/pini.md)
