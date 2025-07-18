@@ -30,7 +30,7 @@ jan li moli la pakala li lon
 
 pakala li lon pi tenpo ale
 
-pakala li lon la ike li lon ala
+pakala li lon la ale ala li
 
 # pakala [^2]
 
@@ -62,10 +62,10 @@ jan li moli la pakala li lon
 
 pakala li lon pi tenpo ale
 
-pakala li lon la ike li lon a
+pakala li lon la ale li ike
 
 ---
 
-[^1]: pain - when a child is born there's pain - when a person has no money there's pain - when a person has much money there's pain - when a person has no job there's pain - when a person works there's pain - when a person is alone there's pain - when a person seeks a companion there's pain - when a person's companion leaves there's pain - when a person gets married there's pain - when a person's companion dies there's pain - when a person is young there's pain - when a person gets old there's pain - when a person dies there's pain - pain is always there - pain is there, but there's no harm from it
+[^1]: pain - when a child is born there's pain - when a person has no money there's pain - when a person has much money there's pain - when a person has no job there's pain - when a person works there's pain - when a person is alone there's pain - when a person seeks a companion there's pain - when a person's companion leaves there's pain - when a person gets married there's pain - when a person's companion dies there's pain - when a person is young there's pain - when a person gets old there's pain - when a person dies there's pain - pain is always there - pain is there, but not everything is bad
 
-[^2]: pain - when a child is born there's pain - when a person has no money there's pain - when a person has much money there's pain - when a person has no job there's pain - when a person works there's pain - when a person is alone there's pain - when a person seeks a companion there's pain - when a person's companion leaves there's pain - when a person gets married there's pain - when a person's companion dies there's pain - when a person is young there's pain - when a person gets old there's pain - when a person dies there's pain - pain is always there - pain is hurting so much!
+[^2]: pain - when a child is born there's pain - when a person has no money there's pain - when a person has much money there's pain - when a person has no job there's pain - when a person works there's pain - when a person is alone there's pain - when a person seeks a companion there's pain - when a person's companion leaves there's pain - when a person gets married there's pain - when a person's companion dies there's pain - when a person is young there's pain - when a person gets old there's pain - when a person dies there's pain - pain is always there - all is bad because of pain
