@@ -2,7 +2,7 @@
 
 # tawa wawa nasa [^1]
 
-alasa e olin la mi tawa wawa a
+alasa olin la mi tawa wawa a
 
 tawa wawa mi li nasa
 
@@ -30,7 +30,7 @@ ken la jan wan la mi suwi
 
 # tawa wawa nasa [^2]
 
-alasa e olin la mi tawa wawa a
+alasa olin la mi tawa wawa a
 
 taso tawa wawa mi li nasa
 
