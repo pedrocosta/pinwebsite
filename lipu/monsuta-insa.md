@@ -2,7 +2,7 @@
 
 # monsuta insa [^1]
 
-monsuta li lon insa e pilin mi
+monsuta li lon insa pi pilin mi
 
 monsuta ni li pana e pilin anpa tawa mi
 
@@ -10,13 +10,13 @@ lawa mi li pana e pilin pona
 
 monsuta li mu
 
-ona li wile moku e lawa mi li wile suli
+ona li wile moku e lawa mi li wile kama suli
 
 lawa mi li mu
 
-ona li wile moku kin li wile moli e monsuta
+ona kin li wile moku li wile moli e monsuta
 
-mi monsuta e monsuta
+monsuta la mi monsuta
 
 mi moku e ona
 
@@ -24,7 +24,7 @@ ona li suli ala
 
 ona li moku ala e pilin pona mi
 
-mi ken lili kute e monsuta
+mi ken kute lili e monsuta
 
 taso ona li awen lon insa mi
 
@@ -32,7 +32,7 @@ mi wile ala pana e moku tawa monsuta
 
 # monsuta insa [^2]
 
-monsuta li lon insa e pilin mi 
+monsuta li lon insa pi pilin mi 
 
 monsuta ni li pana e pilin anpa tawa mi
 
@@ -40,13 +40,13 @@ lawa mi li pana e pilin pona
 
 monsuta li mu
 
-ona li wile moku e lawa mi li wile suli
+ona li wile moku e lawa mi li wile kama suli
 
 lawa mi li mu
 
-ona li wile moku kin li wile moli e monsuta
+ona kin li wile moku li wile moli e monsuta
 
-mi monsuta e monsuta
+monsuta la mi monsuta
 
 mi moku e ona
 
@@ -62,6 +62,6 @@ mi pana e moku tawa monsuta tan seme
 
 ---
 
-[^1]: the monster within - in my heart lives a monster - this monster makes me feel depressed - my head tells me to feel good - the monster growls - he wants to eat my brain to get stronger - my head growls - it also wants to eat and wants to kill the monster - I threat the monster - I devour him - he is not so strong - he could not eat my happiness - I only hear him fadedly - but he still lives on me - my wish is never to feed him
+[^1]: the monster within - in my heart lives a monster - this monster makes me feel depressed - my head tells me to feel good - the monster growls - he wants to eat my brain to get stronger - my head growls - it also wants to eat and wants to kill the monster - I scare the monster - I devour him - he is not so strong - he could not eat my happiness - I only hear him fadedly - but he still lives on me - my wish is never to feed him
 
 [^2]: the monster within - in my heart lives a monster - this monster makes me feel depressed - my head tells me to feel good - the monster growls - he wants to eat my brain to get stronger - my head growls - it also wants to eat and wants to kill the monster - I am afraid of the monster - I feed him - he is so strong - he is eating my happiness - I can't hear my laughs - I only ear the monster - why do I feed him?
